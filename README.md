@@ -1,5 +1,3 @@
-[Me](https://codepen.io/tu-usuario/pen/abc123)
-
 
 ## 💻 Tech Stack:
 
