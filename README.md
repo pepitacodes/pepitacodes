@@ -1,7 +1,6 @@
 
 👩‍💻 Desarrolladora Frontend | HTML | CSS | JavaScript | Angular | 
-📍 Argentina  
-[CodePen](https://codepen.io/pepitacodes)  
+
 
 ---
 
